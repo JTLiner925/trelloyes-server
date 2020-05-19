@@ -1,0 +1,17 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id 2 not found.","level":"error"}
+{"message":"Card with id a853095d-9982-4b6f-803b-04b06cd7e377 created","level":"info"}
+{"message":"Card with id a853095d-9982-4b6f-803b-04b06cd7e377 not found.","level":"error"}
+{"message":"Card with id a853095d-9982-4b6f-803b-04b06cd7e377 not found.","level":"error"}
+{"message":"Card with id 6b82dc12-107b-4c19-81fd-02cbdf59fd97 created","level":"info"}
+{"message":"Card with id 6b82dc12-107b-4c19-81fd-02cbdf59fd97 not found.","level":"error"}
+{"message":"Card with id d8161d5e-5446-4c57-bb85-9c220ec884b4 created","level":"info"}
+{"message":"Card with id d8161d5e-5446-4c57-bb85-9c220ec884b4 not found.","level":"error"}
+{"message":"Card with id d35ca9d5-06ef-436b-afa7-18af31fb7eda created","level":"info"}
+{"message":"List with id a849c5d9-453e-42e5-9c52-2e913dece2dd created","level":"info"}
+{"message":"List with id a849c5d9-453e-42e5-9c52-2e913dece2dd not found.","level":"error"}
+{"message":"Card with id 1 deleted.","level":"info"}
+{"message":"List with id 1 deleted.","level":"info"}
